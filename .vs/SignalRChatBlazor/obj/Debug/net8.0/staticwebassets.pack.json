@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Project_SignaIRChat\\SignalRChatRepoBlazor\\SignalRChatBlazor\\SignalRChatBlazor\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\SignalRChatBlazor.bundle.scp.css",
+      "PackagePath": "staticwebassets\\SignalRChatBlazor.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Project_SignaIRChat\\SignalRChatRepoBlazor\\SignalRChatBlazor\\SignalRChatBlazor\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Project_SignaIRChat\\SignalRChatRepoBlazor\\SignalRChatBlazor\\SignalRChatBlazor\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Project_SignaIRChat\\SignalRChatRepoBlazor\\SignalRChatBlazor\\SignalRChatBlazor\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Project_SignaIRChat\\SignalRChatRepoBlazor\\SignalRChatBlazor\\SignalRChatBlazor\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.SignalRChatBlazor.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.SignalRChatBlazor.props",
+      "PackagePath": "build\\SignalRChatBlazor.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.SignalRChatBlazor.props",
+      "PackagePath": "buildMultiTargeting\\SignalRChatBlazor.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.SignalRChatBlazor.props",
+      "PackagePath": "buildTransitive\\SignalRChatBlazor.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
